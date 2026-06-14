@@ -37,3 +37,16 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sereshkkka&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sereshkkka&layout=compact&theme=tokyonight)
+
+## 📚 Currently Learning
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Hosting
+
+![VPS](https://img.shields.io/badge/VPS-0052CC?style=for-the-badge)
+![VDS](https://img.shields.io/badge/VDS-0052CC?style=for-the-badge)
+![Dedicated%20Servers](https://img.shields.io/badge/Dedicated_Servers-0052CC?style=for-the-badge)
