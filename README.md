@@ -42,7 +42,7 @@
 ### ☁️ Hosting & Virtualization
 
 ![VPS / VDS / Dedicated Servers](https://img.shields.io/badge/VPS%20%2F%20VDS%20%2F%20Dedicated%20Servers-0052CC?style=for-the-badge)
-1
+
 ### 🛠️ DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
